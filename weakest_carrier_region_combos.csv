@@ -1,0 +1,6 @@
+Carrier,Region,orders,on_time_pct
+QuickMove,East,181,33.70165745856354
+SafeShip,East,227,55.50660792951542
+QuickMove,West,279,56.272401433691755
+QuickMove,North,212,58.490566037735846
+QuickMove,South,266,63.90977443609023
